@@ -1,4 +1,4 @@
-# Welcome to My GitHub Portfolio!
+# Welcome to the Azure Made Easy Portfolio 
 ## About Me
 
 Hi, This is Azure Made Easy a YouTuber and IT professional with a passion for helping others learn about Azure technologies. I've been working in the IT industry for 10+ years and have gained extensive experience in cloud engineering with an Azure focus. 
